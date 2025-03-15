@@ -1,0 +1,11 @@
+{
+  "name": "readme-message",
+  "type": "module",
+  "version": "0.0.0",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "got": "^14.4.6",
+    "js-quantities": "^1.8.0"
+  }
+}
